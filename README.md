@@ -11,9 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building: **Sheesh Discord Bot & Futuristic Web Apps**  
-- 🌱 Learning: **Full-Stack Development, Automation, and Game Systems**  
-- 🎮 Love: **Minecraft, Roblox, **  l
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -23,33 +21,9 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/kshitizAryal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-A142F5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-A142F5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kzary&show_icons=true&locale=en&layout=compact&theme=radical)
 
----
-
-### 🚀 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kshitizAryal&show_icons=true&theme=tokyonight&hide_border=true&title_color=A142F5&icon_color=A142F5" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitizAryal&theme=tokyonight&hide_border=true&ring=A142F5&fire=A142F5&currStreakLabel=A142F5" />
-</p>
-
----
-
-### 🎯 Featured Projects
-- 🤖 [**Sheesh Discord Bot**](https://github.com/kshitizAryal/Sheesh-bot) — Futuristic multi-purpose Discord bot.  
-- 🌌 [**Futuristic Website Template**](https://github.com/kshitizAryal/Futuristic-Website) — Sleek, animated UI built around #a142f5.  
-- 🎮 [**Minecraft Utilities**](https://github.com/kshitizAryal/MinecraftTools) — Tools & scripts for Minecraft creators.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kzary&show_icons=true&count_private=true&theme=radical&hide=prs,issues)
 
 ---
 
