@@ -1,7 +1,7 @@
 <!-- Profile README for Kshitiz Aryal -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=500&color=A142F5&center=true&vCenter=true&width=435&lines=⚡+Kshitiz+Aryal+⚡;Developer+%7C+Gamer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=500&color=A142F5&center=true&vCenter=true&width=435&lines=⚡+Hi👋+⚡;+I am Kshitiz+;Developer+%7C+Gamer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,10 +13,7 @@
 ### 👨‍💻 About Me
 - 🔭 Currently building: **Sheesh Discord Bot & Futuristic Web Apps**  
 - 🌱 Learning: **Full-Stack Development, Automation, and Game Systems**  
-- 🎮 Love: **Minecraft, Roblox, and AI-based creativity tools**  
-- 💬 Ask me about: **Discord.js, Node.js, CSS Animations, Hosting**  
-- ⚡ Fun fact: *I make code look cool — literally glowing.*
-
+- 🎮 Love: **Minecraft, Roblox, **  l
 ---
 
 ### 🛠️ Languages & Tools
