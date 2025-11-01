@@ -10,11 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
-
----
-
-### 🛠️ Languages & Tools
+### 🛠️ Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,discord,vscode,github,git,react" />
 </p>
@@ -33,4 +29,4 @@
 
 ---
 
-⭐ *"Code it. Glow it. Own it."* — **Kshitiz Aryal**
+⭐ *"Eat, Code, Games, Sleep"* — **Kshitiz Aryal**
