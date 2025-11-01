@@ -12,7 +12,7 @@
 
 ### 🛠️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,discord,vscode,github,git,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,discord,git,threejs,c,cpp" />
 </p>
 
 ---
